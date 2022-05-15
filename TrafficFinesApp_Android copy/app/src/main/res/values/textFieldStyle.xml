@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="textFieldStyle">
+        <item name="android:background">@drawable/text_field_style</item>
+        <item name="android:layout_height">70dp</item>
+        <item name="android:radius">25dp</item>
+        <item name="android:paddingLeft">10dp</item>
+    </style>
+
+</resources>
